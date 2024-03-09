@@ -1,0 +1,6 @@
+
+      <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"> 
+        <polygon points="100,150 150,50 200,150" fill="GREEN" /> 
+        <text x="50%" y="50%" fill="BLUE" font-size="48" text-anchor="middle" dominant-baseline="middle">ANT</text> 
+      </svg>
+    
