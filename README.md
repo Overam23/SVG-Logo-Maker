@@ -32,3 +32,6 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
+![Screenshot (25)](https://github.com/Overam23/SVG-Logo-Maker/assets/151860154/b197655a-289b-4989-b796-0aff3bba48f8)
+![Screenshot (26)](https://github.com/Overam23/SVG-Logo-Maker/assets/151860154/3fc2cf8f-2227-4dde-a5cd-fcfbb0bbf47d)
+![Screenshot (27)](https://github.com/Overam23/SVG-Logo-Maker/assets/151860154/45b347da-a200-48ea-8957-50a090004bc6)
