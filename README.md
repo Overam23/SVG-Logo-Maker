@@ -1,3 +1,6 @@
+https://overam23.github.io/SVG-Logo-Maker/
+https://drive.google.com/file/d/1jXOv4S_4wjvu3P7T169hamn5XLlHkbMN/view
+
 # SVG-Logo-Maker
 SVG-Logo-Maker a Node.js command-line application that takes in user input to 
 generate a logo and save it as an SVG file. 
